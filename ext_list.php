@@ -321,6 +321,7 @@ $available = array(
     "co.na",
     "edu.na",
     "net.na",
+    "nl",
     "nf",
     "no",
     "nu",
