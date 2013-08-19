@@ -190,6 +190,7 @@
         "gl"            => "whois.nic.gl",
         "gm"            => "whois.ripe.net",
         "gs"            => "whois.adamsnames.tc",
+        "gp"            => "whois.nic.gp",
         "com.hk"        => "whois.hkdnr.net.hk",
         "edu.hk"        => "whois.hkdnr.net.hk",
         "gov.hk"        => "whois.hkdnr.net.hk",

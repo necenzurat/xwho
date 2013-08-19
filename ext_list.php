@@ -191,6 +191,7 @@ $available = array(
     "gl",
     "gm",
     "gs",
+    "gp",
     "com.hk",
     "edu.hk",
     "gov.hk",

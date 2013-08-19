@@ -5,6 +5,7 @@ usage whois_query("example.com");
 
 $domain = $_GET["q"];
 echo (nl2br(whois_query("$domain")));
+
 function whois_query($domain) {
 
     require "ext_list.php";
