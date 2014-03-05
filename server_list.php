@@ -530,6 +530,7 @@
         "xxx"           => "whois.nic.xxx",
         "cat"           => "whois.cat",
         "tt"            => "nic.tt",
+        "vu"			=> "vunic.vu"
         //"cu"          => "whois.nic.cu",
         //"com"         => "whois.crsnic.net"
             

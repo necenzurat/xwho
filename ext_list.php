@@ -528,5 +528,6 @@ $available = array(
     "gov",
     "co",
     "tt",
-    "xxx"
+    "xxx",
+    "vu"
 );
